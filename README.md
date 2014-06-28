@@ -1,14 +1,13 @@
 MakeDirectories
 ===============
 
-Create a batch of numbered directories based on a folder name (eg. myFolder1, myFolder2 .... myFolder300)
+>Create a batch of numbered directories based on a folder name (eg. myFolder1, myFolder2 .... myFolder300)
 
 Instructions
 ---------
 
-npm install
-
-node app.js
+    npm install
+    node app.js
 
 
 User will be prompted for:
